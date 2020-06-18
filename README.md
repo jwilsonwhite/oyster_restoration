@@ -20,7 +20,7 @@ Restoration_Ecology_Survey_SizeDistribution_18June2020.R
 R code that performs the analysis on oyster size distributions and generates Fig. 3 in the manuscript
 
 The data file used in this analysis is
-figure3_sizedistribution_data.csv
+survey_sizedistribution_13March2020.csv
 
 Metadata in
-meta_data_figure3_sizedistribution_data.txt
+meta_data_survey_sizedistribution_13March2020.txt
