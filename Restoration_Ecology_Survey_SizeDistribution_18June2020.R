@@ -7,7 +7,7 @@ library(bbmle)
 library(RColorBrewer)
 
 # Load data
-D <- read.csv('figure4_sizedistribution_data.csv')
+D <- read.csv('figure3_sizedistribution_data.csv')
 D <- subset(D,D$live.newg=='live')
 
 # A simple plot...this could be made to look nicer. 
