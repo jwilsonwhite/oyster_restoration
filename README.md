@@ -14,7 +14,7 @@ apalach_restoration_survey_summary_14Jan2020.csv # end-of-experiment oyster dens
 Metadata for each of those datasets are found in
 meta_data_all.exp.recruits.txt
 meta_data_all.exps.txt
-meta_data_survey_size_distribution_13March2020.txt
+meta_data_apalach_restoration_survey_summary_14Jan2020.txt
 
 Restoration_Ecology_Survey_SizeDistribution_18June2020.R 
 R code that performs the analysis on oyster size distributions and generates Fig. 3 in the manuscript
