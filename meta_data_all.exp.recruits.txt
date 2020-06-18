@@ -1,0 +1,9 @@
+Description of data for the field experiments on oyster recruitment (all.exp.recruit.csv)	
+	
+experiment	codes data belong to experimental rounds 1-4 
+complexity	"describes reshelling treatment in terms of structural complexity with low, moderate, and high"
+reef	numeric identifier of individual reef location
+treatment	caging treatment with cage = predator exclosure as only treatment examined 
+density	initial density of adult oysters
+id	numeric identifier of experimental unit
+avg.recruit	average number of recruits per adult oyster shell observed on monthly basis for three months 

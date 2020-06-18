@@ -1,0 +1,7 @@
+"Description of data for (""survey_size_distribution_13March2020"")"	
+year.harvest	data collected in 2016
+complexity	"refers to structural complexity associated with reshelling treatments of no reshelling (low), moderate reshelling volume (moderate), or high reshelling volume (high)"
+reef.name	unique identifier of location on restored reef
+transect	compass direction transect was depoloyed from boat at a particular survey site
+quadrat  location of quadrat samples along meter position of 20 m transect
+size.mm	size of oysters in quadrat in millimeters (umbo to tip)

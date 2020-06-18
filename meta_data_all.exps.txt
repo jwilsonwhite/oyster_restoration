@@ -1,0 +1,12 @@
+Description of data for the field experiments on oyster survival (all.exps.csv)	
+	
+experiment	codes deata belong to experimental rounds 1-4 
+shelled	describes whether oyster reef was shelled (moderate or high volume) or not (ambient)
+complexity	"describes reshelling treatment in terms of structural complexit with low, moderate, and high"
+treatment	"cageing treatment with cage = predator exclosure, cage.control = procedural control treatment, and control = no caging treatment"
+density	initial density of adult oysters
+reef	numeric identifier of invididual reef location
+id	numeric identifier of experimental unit
+nlives	number of living oysters
+dead	number of dead oysters
+surv	proportional survival of oysters 
