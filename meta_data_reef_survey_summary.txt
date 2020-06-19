@@ -1,0 +1,17 @@
+Description of data for reef_survey_summary.csv
+These data are used by Rscript Analysis_Figure_Code_Fig2_and_Fig4
+	
+year.harv	data collected in 2016
+shelled		indicates whether reefs were respelled or not (yes, no)
+site		identifies unique portion of reef as no reselling (w2), moderate reselling (w2.200) and high reselling (w2.400)
+reef.name	unique areas on each portion of the reef that were surveyed
+transect	compass direction transect was deployed from boat at a particular survey
+quadrat  location of quadrat samples along meter position of 20 m transect
+sample.wt	mass (kg) of sample excavated from within quadratic
+total.adults	total counts of adult oysters in quadrat
+total.spat	total counts of juvenile oysters in quadratic
+total.newg	total counts of oysters recently dead (with two valves in tact)
+total.oldg	total count of dead oysters with two bivalves, but aged 
+adult.per.mass  total count of live adults divided by mass of sample
+spat.per.mass	total count of juvenile oysters divided by mass of sample
+
